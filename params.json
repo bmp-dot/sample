@@ -1,6 +1,6 @@
 {
  "baseName": {
- "value": ""
+ "value": "sample"
  },
  "brainImage": {
  "value": "/subscriptions/ac63f844-2350-4db1-9655-35817d1347a8/resourceGroups/vectra-dev-WestUS2/providers/Microsoft.Compute/galleries/Production/images/Cognito-6.16/versions/6.16.0"
@@ -15,7 +15,7 @@
  "value": "westus2"
  },
  "provisionToken": {
- "value": ""
+ "value": "fromvectra"
  },
  "sshKey": {
  "value":""
